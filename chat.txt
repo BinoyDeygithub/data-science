@@ -1,0 +1,572 @@
+28/02/2024, 9:11 pm - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+28/02/2024, 9:11 pm - gamer: Dashh
+28/02/2024, 9:11 pm - gamer: Azvh
+28/02/2024, 9:56 pm - Binoy: Hi
+05/05/2024, 10:19 am - Binoy: <Media omitted>
+ERD_.drawio.png
+05/05/2024, 11:15 am - Binoy: <Media omitted>
+Final PPT (OEMS).pptx
+05/05/2024, 11:38 am - Binoy: <Media omitted>
+SS.zip
+05/05/2024, 12:01 pm - Binoy: <Media omitted>
+Final BCA Mejor Project.zip
+05/05/2024, 12:24 pm - Binoy: <Media omitted>
+SS,png.png
+05/05/2024, 12:28 pm - Binoy: <Media omitted>
+SS,1.zip
+05/05/2024, 12:44 pm - gamer: In conclusion, the Office Employee Management System (OEMS) offers significant benefits in streamlining administrative tasks, enhancing communication, and ensuring compliance. Future enhancements such as advanced analytics and machine learning integration will further optimize workforce management processes, contributing to organizational success and efficiency.
+05/05/2024, 12:54 pm - Binoy: FUTURE SCOPE
+
+•	User can edit data: Users can edit their data, ensuring accuracy and autonomy within the Employee Management System. This streamlines maintenance tasks and enhances user engagement and satisfaction.
+
+•	Send Notification: The system sends notifications to users and administrators, providing updates and alerts within the Employee Management System. This feature enhances communication and ensures timely information dissemination.
+
+•	Search bar: The addition of a search bar to the Employee Management System (EMS) interface allows users and administrators to swiftly locate specific employee records. With intelligent search algorithms, filtering options, and real-time suggestions, this feature enhances productivity, decision-making, and user satisfaction within the organization while maintaining data security.
+
+•	Live chat: Implementing live chat functionality within the Employee Management System allows users and administrators to communicate in real-time, facilitating immediate assistance, collaboration, and problem resolution, enhancing user experience and system efficiency.
+05/05/2024, 12:54 pm - Binoy: LIMITATIONS
+
+User need Laptop: Due to non-live hosting, real-time access and updates are restricted, potentially impacting decision-making and collaboration. Solutions like synchronization mechanisms can mitigate this limitation.
+
+Phone no and email verification: The absence of phone number and email verification poses a security risk and may lead to potential data integrity issues. Without verification, there's a heightened risk of inaccurate user information, compromising system reliability and user trust. Implementing verification measures would enhance data security and user authentication.
+
+Salary Management: Admin lacks salary management capability in the Employee Management System (EMS), hindering comprehensive HR functionality. This constraint restricts administrators from efficiently handling payroll tasks like salary adjustments and bonuses, necessitating manual interventions. Integrating payroll features would enhance HR management capabilities and streamline salary-related processes within the EMS.
+
+Attandance tracking: There Was no function To track the regular attandence of employee.
+
+Admin approval: Admin can not approve any request which was sent by Employee.
+
+Employee model: currently employee model data can not view in the website it will be used in future.
+
+Prior security: We don’t have the prior security features in our website . It will be updated in future.
+05/05/2024, 12:55 pm - gamer: Future Scope:
+- User Data Editing: Allow users to edit their data, enhancing accuracy and autonomy.
+- Notification System: Implement alerts for timely updates and communication.
+- Search Bar: Introduce a search feature for swift record retrieval and enhanced productivity.
+- Live Chat: Enable real-time communication for immediate assistance and collaboration.
+05/05/2024, 12:57 pm - gamer: Limitations:
+- Laptop Dependency: Real-time access restricted, synchronization mechanisms could help.
+- Verification: Lack of phone and email verification poses security risks.
+- Salary Management: Admin lacks salary management capability.
+- Attendance Tracking: No employee attendance tracking functionality.
+- Admin Approval: Inability for admin to approve employee requests.
+- Employee Model: Employee data not viewable on the website.
+- Security: Prior security features lacking, updates needed.
+05/05/2024, 1:26 pm - Binoy: <Media omitted>
+UpdatedDFDEmp.drawio.png
+05/05/2024, 1:26 pm - Binoy: <Media omitted>
+Untitled Diagram.drawio (2).drawio (1).png
+05/05/2024, 1:37 pm - Binoy: <Media omitted>
+DFDEmp.docx
+05/05/2024, 1:44 pm - gamer: <Media omitted>
+Green Yellow Pink Creative Employee Training Presentation (2).pptx
+08/05/2024, 8:00 am - gamer: #include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
+
+int main()
+{
+
+  int number, guess, numguess = 1;
+  srand(time(0));
+  number = rand() % 100 + 1;
+  printf("The number is %d\n", number);
+
+  do
+  {
+    printf("Guess the number Between 1 to 100\n");
+    scanf("%d", &guess);
+    if (number > guess)
+    {
+      printf("please enter lower number ");
+    }
+    else if (number < number)
+    {
+      printf("please enter higher number ");
+      /* code */
+    }
+    else
+    {
+      printf("you guess %d attempts ", numguess);
+    }
+    numguess++;
+
+    /* code */
+  }
+
+  while (guess != number);
+
+  return 0;
+}
+12/05/2024, 12:55 pm - Binoy: <Media omitted>
+office employee management system dos - RIIT.docx
+12/05/2024, 12:55 pm - Binoy: <Media omitted>
+Tour and travel website - RIIT.docx
+12/05/2024, 2:37 pm - gamer: <Media omitted>
+office employee management system dos - RIIT.docx
+12/05/2024, 2:40 pm - gamer: <Media omitted>
+office employee management system doc - RIIT.docx
+12/05/2024, 7:28 pm - gamer: <Media omitted>
+office employee management system doc - RIIT.docx
+17/05/2024, 12:47 pm - Binoy: <Media omitted>
+17/05/2024, 2:36 pm - Binoy: <Media omitted>
+TableDesigned.docx
+17/05/2024, 3:22 pm - gamer: <Media omitted>
+office employee management system doc - RIIT.docx
+18/05/2024, 10:25 am - gamer: <Media omitted>
+22/05/2024, 10:20 am - gamer: <Media omitted>
+22/05/2024, 10:20 am - gamer: <Media omitted>
+22/05/2024, 10:20 am - gamer: <Media omitted>
+22/05/2024, 9:24 pm - gamer: <Media omitted>
+office employee management system doc final - RIIT.docx
+23/05/2024, 10:11 am - Binoy: <Media omitted>
+24/05/2024, 8:32 pm - Binoy: <Media omitted>
+BCA MEJOR PROJECT FINAL PPT !!!.pptx
+26/05/2024, 11:38 am - gamer: Here's a detailed script for your college final year presentation using the provided PowerPoint slides:
+
+---
+
+**Slide 1: Title Slide**
+
+Welcome everyone. Today, we are excited to present our final year project on the Office Employee Management System (OEMS) developed for TBS Pvt Ltd. This project has been prepared by Tapas Maji, Somen Hansda, Biswarup Karmakar, and Binoy Dey. Our system aims to streamline and optimize employee management processes within an office environment.
+
+---
+
+**Slide 2: What We Will Talk About**
+
+In this presentation, we will cover the following key topics:
+1. Introduction
+2. Project Specifications
+3. Objective & Scope
+4. Spiral Model
+5. System Design
+6. Testing & Implementation
+7. Limitations
+8. Future Enhancements
+9. Bibliography
+10. Conclusion
+
+---
+
+**Slide 3: Introduction**
+
+The Office Employee Management System (OEMS) is a comprehensive software solution designed to centralize and automate the administration of employees in an organization. It significantly enhances productivity, communication, and compliance, playing a pivotal role in optimizing office environments. By providing a centralized platform for managing employee data, tasks, and communications, OEMS helps in reducing administrative workload and improving overall efficiency.
+
+---
+
+**Slide 4: Project Specification**
+
+Our project specifications include:
+- **Front-End Technologies:** HTML, CSS, JavaScript, Bootstrap
+- **Back-End Technologies:** Django FrameworkDB-browser
+- **Software Requirements:** Windows 8 or above, Django Framework 3 or above, Python 3.7 or above, MS Office 2010
+- **Hardware Requirements:** Intel i3 processor or above, 1 TB hard disk
+
+These technologies and specifications were chosen to ensure that our system is robust, scalable, and capable of handling the complex needs of modern office environments.
+
+---
+
+**Slide 5: Our Project Objective & Scope**
+
+**Objective:**
+- The primary objective of our project is to develop and implement a comprehensive Office Employee Management System (OEMS) that enhances administrative efficiency and employee management.
+
+**Scope:**
+1. Design a user-friendly software platform.
+2. Centralize all employee-related data.
+3. Automate routine administrative tasks to reduce manual workload.
+4. Address and resolve common employee-related issues effectively.
+5. Develop a reliable and efficient website for employee management.
+
+These objectives and scope aim to provide a holistic solution for managing office employees effectively.
+
+---
+
+**Slide 6: Spiral Model**
+
+For the development of our project, we chose the Spiral Model. This model is highly iterative and allows for continuous refinement and risk management at every phase. It involves repeated iterations through four phases: Planning, Risk Analysis, Engineering, and Evaluation. This approach helps us identify and mitigate risks early in the project, ensuring a more reliable and well-tested final product.
+
+---
+
+**Slide 7: System Design**
+
+Our system design process includes several key components to ensure a comprehensive and functional system:
+- **Screenshots Design:** Visual representation of the user interface.
+- **ER Diagram:** Defines data elements and relationships.
+- **Admin Panel:** Controls for managing the system.
+- **Data Flow Diagram:** Visualizes data processing and flow within the system.
+
+These components work together to create a cohesive and efficient system.
+
+---
+
+**Slide 8: ER Diagram**
+
+The Entity-Relationship Diagram (ERD) is a high-level data model used to define the data elements and relationships for the system. It helps in developing a conceptual design for the database and provides a clear, simple view of data interactions and structures. This diagram is crucial for understanding how data is organized and managed within the OEMS.
+
+---
+
+**Slide 9: Data Flow Diagram**
+
+A Data Flow Diagram (DFD) represents the flow of data through our system. It shows how data moves from external sources or internal stores to internal processes and vice versa. DFDs are used to visualize the data processing and help us understand the system’s functionality and data handling processes. This visualization aids in identifying any potential issues or bottlenecks in data flow.
+
+---
+
+**Slide 10: Admin Panel**
+
+Our Admin Panel is designed to provide comprehensive controls for managing the system. It includes features such as:
+- **Admin Home:** The main dashboard for administrators.
+- **Admin Sign In:** Secure login for administrators to access the system.
+
+The admin panel is crucial for overseeing system operations and ensuring smooth functioning.
+
+---
+
+**Slide 11: Project Screenshots**
+
+We have several screenshots to showcase different parts of our project:
+
+- **Home Page:** The main landing page for users, providing a comprehensive overview of the system.
+- **Contact Us:** A page for users to get in touch with the organization.
+- **About Page:** Information about the organization and the system.
+
+These screenshots illustrate the user interface and functionality of the OEMS.
+
+---
+
+**Slide 12: Project Screenshots (continued)**
+
+- **Sign In/Sign Up:** User authentication pages, allowing users to securely log in or create new accounts.
+- **User Profile:** Personalized user information, including personal details and job-related information.
+
+---
+
+**Slide 13: Project Screenshots (continued)**
+
+- **Leave Application:** Interface for applying and managing leave requests.
+- **Medical Application:** Interface for managing medical leave applications.
+- **Loan Application:** Interface for managing loan applications.
+
+These applications streamline the process for requesting and managing various types of employee applications.
+
+---
+
+**Slide 14: Project Screenshots (continued)**
+
+- **After Logout:** Post-logout confirmation page, ensuring users have securely logged out of the system.
+
+These screenshots give a complete picture of the functionalities and user experience provided by the OEMS.
+
+---
+
+**Slide 15: Testing & Implementation**
+
+Testing and implementation are critical phases of our project. We used various testing methods to ensure the reliability and functionality of the system:
+- **White Box Testing:** Testing the internal structure and workings of the system.
+- **Black Box Testing:** Examining the functionality of the system without knowledge of its internal structure.
+- **Gray Box Testing:** A combination of both white and black box testing.
+
+These testing methods helped us identify and fix bugs, ensuring a robust and efficient system.
+
+---
+
+**Slide 16: Limitations**
+
+Despite our best efforts, the system has some limitations:
+- **Laptop Dependency:** The system requires a laptop for optimal performance.
+- **Verification Issues:** Challenges in verifying data accuracy.
+- **Salary Management:** Limited functionality for managing salaries.
+- **Admin Approval:** Dependency on admin approval for certain actions.
+- **Employee Model:** Basic employee model with room for improvement.
+- **Security:** Need for enhanced security measures.
+
+We acknowledge these limitations and have plans to address them in future updates.
+
+---
+
+**Slide 17: Future Enhancements**
+
+To continuously improve our system, we have planned several future enhancements:
+- **User Data Editing:** Allowing users to edit their data.
+- **Notification System:** Implementing a notification system for updates and alerts.
+- **Search Bar:** Adding a search bar for easy navigation.
+- **Live Chat:** Integrating a live chat feature for real-time assistance.
+- **Admin Approval Improvements:** Streamlining the admin approval process.
+- **Enhanced Employee Model:** Developing a more comprehensive employee model.
+
+These enhancements aim to make the system more user-friendly, efficient, and effective.
+
+---
+
+**Slide 18: Conclusion**
+
+In conclusion, the Office Employee Management System (OEMS) offers significant benefits in streamlining administrative tasks, enhancing communication, and ensuring compliance. Future enhancements such as advanced analytics and machine learning integration will further optimize workforce management processes, contributing to organizational success and efficiency. We believe OEMS will be a valuable asset for any organization looking to improve its employee management practices.
+
+---
+
+**Slide 19: Bibliography**
+
+We have referenced several sources in our project:
+- Stack Overflow: A community for developers to share knowledge.
+- W3Schools: An educational website for learning web technologies.
+- Google: General search and research.
+- Mozilla Developer Network: Documentation for web standards.
+- GitHub: Code hosting and version control.
+- TutorialsPoint: Online tutorials for various technologies.
+
+These resources have been invaluable in the development of our project.
+
+---
+
+**Slide 20: Thank You**
+
+Thank you for listening! We appreciate your time and attention. We are now open to any questions you might have.
+
+---
+
+This detailed script should help you deliver a thorough and engaging presentation, covering all the essential points of your project.
+03/06/2024, 9:33 am - gamer: <Media omitted>
+03/06/2024, 9:33 am - gamer: <Media omitted>
+03/06/2024, 9:33 am - gamer: <Media omitted>
+05/06/2024, 12:01 pm - gamer: blue professional modern CV resume (2).pdf (file attached)
+blue professional modern CV resume (2).pdf
+09/06/2024, 2:15 am - gamer: https://youtube.com/shorts/hQ1ggdmeW20?si=2iuyHEM67uWknZmL
+11/06/2024, 1:46 am - gamer: DOC-20240611-WA0000. (file attached)
+11/06/2024, 8:37 am - gamer: DOC-20240611-WA0001. (file attached)
+11/06/2024, 9:12 am - gamer: 7384209929
+12/06/2024, 8:35 am - gamer: DOC-20240612-WA0000. (file attached)
+12/06/2024, 9:23 am - gamer: DOC-20240612-WA0001. (file attached)
+12/06/2024, 10:05 am - gamer: 9933103884
+20/06/2024, 8:25 am - gamer: https://www.mdpi.com/2076-3417/9/24/5462
+21/06/2024, 9:55 am - Binoy: IMG-20240621-WA0002.jpg (file attached)
+Erokom holo
+26/06/2024, 9:31 am - gamer: KAZI NAZRUL UNIVERSITYTRTRD.docx (file attached)
+KAZI NAZRUL UNIVERSITYTRTRD.docx
+26/06/2024, 9:32 am - gamer: KAZI NAZRUL UNIVERSITYTRTRD.docx (file attached)
+KAZI NAZRUL UNIVERSITYTRTRD.docx
+26/06/2024, 9:32 am - gamer: KAZI NAZRUL UNIVERSITYTRTRD-1.docx (file attached)
+KAZI NAZRUL UNIVERSITYTRTRD.docx
+26/06/2024, 10:00 am - Binoy: 8972748309
+27/06/2024, 8:30 pm - gamer: You deleted this message
+27/06/2024, 8:32 pm - gamer: You deleted this message
+01/07/2024, 11:22 am - gamer: Dim , jire guro
+06/07/2024, 1:50 pm - gamer: RECRUITMENT FOR HDFC BANK 9830650211 https://g.co/kgs/61rfffU
+06/07/2024, 10:13 pm - gamer: +91 98354 96O50
+06/07/2024, 10:13 pm - Binoy: 9835496O50
+06/07/2024, 10:14 pm - Binoy: +91 98354 96050
+06/07/2024, 10:14 pm - Binoy: 9835496050
+06/07/2024, 10:15 pm - Binoy: <Media omitted>
+08/07/2024, 2:19 pm - Binoy: IMG-20240708-WA0000.jpg (file attached)
+08/07/2024, 3:02 pm - gamer: <Media omitted>
+DT20245704595_Application (8).pdf
+08/07/2024, 3:03 pm - gamer: <Media omitted>
+DT20245704595_Application (6).pdf
+11/07/2024, 2:25 am - gamer: 🩷              🩷
+           🙂       💘        🙂
+           🙂.                    🙂
+              🙂.               🙂
+                  🙂.        🙂
+                         🙂
+11/07/2024, 2:26 am - gamer: 🩷              🩷
+           🙂       💘        🙂
+           🙂.                    🙂
+              🙂.               🙂
+                  🙂.        🙂
+                         🙂
+11/07/2024, 2:43 am - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻           🤴🏻
+🤴🏻           🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻           🤴🏻
+🤴🏻           🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+              🩷                 🩷.       
+           🙂       💝          🙂 
+           🙂.         💘        🙂
+   💘     🙂                  🙂
+       💘     🙂.        🙂
+💘        💘      🙂
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 2:44 am - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻            🤴🏻
+🤴🏻           🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻            🤴🏻
+🤴🏻            🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+              🩷                 🩷.       
+           🙂       💝          🙂 
+           🙂.         💘        🙂
+   💘     🙂                  🙂
+       💘     🙂.        🙂
+💘        💘      🙂
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 2:46 am - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻             🤴🏻
+🤴🏻             🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻             🤴🏻
+🤴🏻             🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+              🩷                 🩷.       
+           🧡       💝          🖤 
+           💛         💘        🩶
+   💘     💚                  🤍
+       💘     🩵          💜
+💘        💘      ❣️
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 2:48 am - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻           🤴🏻
+🤴🏻           🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻           🤴🏻
+🤴🏻           🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+           🩷.                    🩷.       
+        🙂            💝          🙂 
+          🙂          💘         🙂
+   💘     🙂                  🙂
+       💘     🙂.        🙂
+💘        💘      🙂
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 2:51 am - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻             🤴🏻
+🤴🏻             🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻             🤴🏻
+🤴🏻             🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+        🩷                        🩷.      
+     🧡              💝           🖤 
+     💛                               🩶
+        💚                         🤍
+              🩵              💜
+                        ❣️
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 10:19 am - Binoy: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻                🤴🏻
+🤴🏻             🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻                🤴🏻
+🤴🏻              🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+        🩷                        🩷.      
+     🧡              💝           🖤 
+     💛                               🩶
+        💚                         🤍
+              🩵              💜
+                        ❣️
+
+
+
+                        👸👸👸👸
+                                    👸
+                                    👸
+                        👸      👸
+                        👸      👸                                               
+                        👸👸👸
+11/07/2024, 6:43 pm - gamer: 🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻                
+🤴🏻             
+🤴🏻🤴🏻🤴🏻🤴🏻
+                  🤴🏻
+                 🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+
+        🩷                        🩷.      
+     🧡              💝           🖤 
+     💛                               🩶
+        💚                         🤍
+              🩵              💜
+                        ❣️
+
+
+
+    🤴🏻🤴🏻🤴🏻🤴🏻
+🤴🏻                
+🤴🏻             
+🤴🏻🤴🏻🤴🏻🤴🏻
+                  🤴🏻
+                 🤴🏻
+🤴🏻🤴🏻🤴🏻🤴🏻
+12/07/2024, 8:05 pm - gamer: https://event.webinarjam.com/live/7/vkw6qbna0anay04v
+12/07/2024, 8:30 pm - gamer: https://hhadhbh.r.af.d.sendibt2.com/tr/cl/qQLhHJEYSHhHeVNskA2AkuJBV1ZNC6zs17cWUIadKeIy4_MVh_zo2Fyy1-IrOQUvFKFD63p51ooJkl6FbhH4GwLB3ckytDTEQCrL3BfA9yE08tYurR5dAUonXFrlEAzniGTG-CVtAOzMKmvan_RmJTydjBAPyi0ZqhAqsbm4V1__ADDqHTRc3wHRCIVD_O5galBxr_6tdM5NBPw0AI5YDWeIZf5Ra8tOh0FHRYnVOAQntLhB6r-J_QwnE4wZOrYzLvIJH0Wdd7YTyyxOPkooy-p3ORU
+12/07/2024, 9:17 pm - gamer: https://event.webinarjam.com/live/6/186x4fwc4unu725m
+13/07/2024, 12:17 am - gamer: Sun Jyoti toke choto bela thekei onek valo lagto amar sun tor seta biswas hobe na jani but ha seta valo basa thik na valo lagai chilo oto kichu bujhtam na jetuku mone ache setai bolchi chto te sob kichu to eksathe chilo tai tokhon valo lagto toke........
+ tar por majhe majhe dekha hoto valo lagto....
+ tar hothat ekdin aste aste dekha number newa sotti bolte life e first ato voi legechilo r ja voi e toke cheye chilam number ta tar por esei dupure message korechilam sedin sob theke besi voi o lege chilo r khusi o hoiachilam Jodi seta.... Kichu bolchi na ogulo nia jani amar dos chilo ....
+Tar por kotha hote thakte aste aste koto kichu ei oi kokhon j valo laga theke valo basa hoia gelo aste aste....
+Tor kotha barta tor rag oviman tor care valo lagte lage 😌 aste aste valo basa bare  
+
+Amar jonno tor rag kora Kanda sob kichu dekhe santi lage hmm jokhon kandis kosto hoi tar por vebe santi lage amar jonno kandchis amake koto valo basis 🥰
+Tar por dekha hoto bikale proti din ato tai ovvas hoia gechilo j ek din na dekhle pagoler moto kortam kandtam o koto 
+Koto valo basi j ek din na dekhlei ososti hoto kichu valo lagto 
+Segulo valo lagto 
+Tar por onek din por call tor voice ta hayeeee😌 mone hoy Sara din suni tao mon vorbe na  r ki chai re tor sathe thakar jonno 
+Pase bose thakle tor dike takiyei Sara din periye geleo mone hoy time ta periye gelo ei valo basa tai ki jothesto noi sathe thakar jonno 😌
+Aste aste koto kichur odhikar bare ami kichu korle boka rag kora ami rag korle ghure tor rag kora egulo ki kom sathe thakar jonno 
+Eguloi to to sob re life valo basa care kora jhogra kora manano sob sese eksathe thaka er theke khusi r kise hobi bol 
+Jhogra jhamela sob jaigai ache re tao amra maniye eksathe er besi r lagbe bol sobai pare na re tikiye rakhte amra perechi ato kichur por amader valo basar onek jor re Jyoti sotti vabi amra koto lucky j daily ato boro boro jhamela hoiao por din abar ek hoia jai er theke besi khusi r kichu tei hobo na biswas kor 😔 toke nia ami onek ta lucky biswas kor sotti ekhon kar dine tor moto keo nai ami more geleo tor moto ekta meye pabo na tu seta valo korei janis 😌 
+Amar moto hazar jon k pabi tor care korbe ei oi valo hazar jon pabi but amar vabna chinta alada jeneo tu amar moto kore achis seta tei ami onek happy re jani ekta ektu vul koris ami rag kori segulo ami thik kore nebo ami toke kharap hote debo na sob somoy agle rakhbo kharap kichu theke sudhu ektu amake bujhis please 🙏 
+
+Tu amake bolis ami tor jonno lucky ei oi but valo vabe jodi dekhte chas tahole ekbar vabis tui amar jonno onek lucky sotti 😌 tor jonno ami pabo na khuje r chai o na kaoke sudhu toke chai amar jkono situation e sob kichu dia ami agle rakhbo toke onek valo basi jyoti toke onek besi valo basi 🩷 amar valo basai kono din doubt koris na re 😔 
+I love you pagli 😘 ❤️ ❤️ really love you 😘 😘 💝❣️💘🩷😭😭😭
+13/07/2024, 10:29 pm - gamer: Form 8.html (file attached)
+Form 8.html
+13/07/2024, 10:30 pm - gamer: voter.pdf (file attached)
+voter.pdf
+13/07/2024, 10:33 pm - gamer: Form8_S25285O8C1307241200029.pdf.pdf (file attached)
+Form8_S25285O8C1307241200029.pdf.pdf
+13/07/2024, 10:35 pm - Binoy: S252850802106241200007
+13/07/2024, 10:53 pm - Binoy: IMG-20240713-WA0000.jpg (file attached)
+13/07/2024, 10:55 pm - Binoy: IMG_20240713_225251.jpg (file attached)
+18/07/2024, 10:11 am - gamer: https://apps.cognitiveclass.ai/learning/course/course-v1:CognitiveClass+PY0101EN+v3/block-v1:CognitiveClass+PY0101EN+v3+type@sequential+block@21ff1b94aeb94df4854cd55b8c21806a/block-v1:CognitiveClass+PY0101EN+v3+type@vertical+block@c4c7bdc69e8e481ab43c2f43c269f0ac
+18/07/2024, 11:49 am - gamer: df24a470a66b4437940d915f05e5f7be
+18/07/2024, 11:52 am - gamer: https://courses.cognitiveclass.ai/certificates/df24a470a66b4437940d915f05e5f7be
+19/07/2024, 9:05 pm - gamer: https://cit2.internshipstudio.com/login/
